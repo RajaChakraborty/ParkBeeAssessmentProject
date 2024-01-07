@@ -80,7 +80,7 @@ public class UsersController : ControllerBase
         }
     }
 
-    [HttpPost("StopParkingSession")]
+    [HttpDelete("StopParkingSession")]
     public async Task<ObjectResult> StopParkingSession([FromBody] StopSession stopSesionRequest, CancellationToken cancellationToken)
     {
         try
