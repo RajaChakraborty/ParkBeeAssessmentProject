@@ -10,6 +10,9 @@
 2. There is an endpoint to get the available parking spot of a garage.
    ![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/1d0c3fe8-45bf-46ff-b860-3450c0c76540)
 
+   ![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/0c5d3d93-99b0-42ed-b17b-9768153f183e)
+
+
 
 
 4. There is an endpoit to start the parking session of a user.
