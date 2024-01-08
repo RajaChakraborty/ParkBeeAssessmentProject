@@ -14,9 +14,9 @@
 
 
 
-4. There is an endpoit to start the parking session of a user.
+3. There is an endpoit to start the parking session of a user.
    ![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/557a92d2-9f1e-4011-8bab-08be0db8b540)
 
-5. There is an endpoint to stop/remove the parking session of a user.
+4. There is an endpoint to stop/remove the parking session of a user.
    ![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/8e367036-f2c4-4f2b-b20e-597ef6c9b952)
    
