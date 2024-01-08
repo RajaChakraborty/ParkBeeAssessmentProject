@@ -55,4 +55,4 @@ Here I have created some playlist to run the test scenarios. The steps to run th
 
 
 
-You can follow the same above steps mentioned to select and run the other playlist files.
+You can follow the steps mentioned above to select and run the other playlist files.
