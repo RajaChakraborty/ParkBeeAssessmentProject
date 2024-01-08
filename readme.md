@@ -7,7 +7,7 @@
 <h4>Running in Swagger</h4>
 1. Build and run the application from the Visual Studio.
 2. There is an endpoint to test the number of available spots in a garage.
-![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/872f8502-1656-4c1f-85cb-cf4316d5e70b)
+![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/dc4480a5-b8c2-4b12-8329-79b243d3b112)
 
 
 3. There is an endpoit to start the parking session of a user.
@@ -15,3 +15,4 @@
 
 4. There is an endpoint to stop/remove the parking session of a user.
    ![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/8e367036-f2c4-4f2b-b20e-597ef6c9b952)
+   
