@@ -4,7 +4,7 @@
 2. In the extracted folder there is a .sln file. Open the .sln in Visual Studio 2022.
 3. The application can be tested with Swagger as well as unit test case.
    
-<h4>Running in Swagger</h4>
+<h4><u>Running in Swagger</u></h4>
 1. Build and run the application from the Visual Studio.
 
 2. There is an endpoint to get the available parking spot of a garage.
@@ -19,4 +19,7 @@
 
 4. There is an endpoint to stop/remove the parking session of a user.
    ![image](https://github.com/RajaChakraborty/ParkBeeAssessmentProject/assets/72940474/8e367036-f2c4-4f2b-b20e-597ef6c9b952)
+
+<h4><u>Running the Unit test project</u></h4>
+
    
